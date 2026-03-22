@@ -22,7 +22,7 @@ The nodes with * are nodes that require the extended function provided by the co
 
 1. Clone the model to "comfyui/custom_nodes":
   ```
-  git clone https://github.com/fredconex/ComfyUI-SoundFlow.git
+  git clone https://github.com/gordon123/ComfyUI-SoundFlow.git
   ```
 
 ## Credits
